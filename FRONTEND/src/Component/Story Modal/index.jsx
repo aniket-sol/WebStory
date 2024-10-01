@@ -1,7 +1,7 @@
 import React, { useState, useEffect, useContext } from 'react';
 import './index.css';
 import Bookmarks from '../../assets/Images/Bookmarks.png';
-import BlueBookmark from '../../assets/Images/blueBookmark.png';
+import BlueBookmark from '../../assets/Images/BlueBookmark.png';
 import Share from '../../assets/Images/Share.png';
 import Cross from '../../assets/Images/Cross.png';
 import RedHeart from '../../assets/Images/RedHeart.png';
